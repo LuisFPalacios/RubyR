@@ -10,7 +10,7 @@ def sum arr
  arr.each {|x| sum+= x}
 return sum
 end
-
+//Goose
 def max_2_sum arr
   # YOUR CODE HERE
     if arr.empty?
